@@ -1,0 +1,22 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codequeen69/jest-another-RPG.git"
+  },
+  "author": "codequeen69",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/codequeen69/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/codequeen69/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^28.1.3"
+  }
+}
